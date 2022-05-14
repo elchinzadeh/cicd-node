@@ -4,7 +4,7 @@
   "description": "CICD testing app",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "test": "node index.test.js"
   },
   "repository": {
     "type": "git",
