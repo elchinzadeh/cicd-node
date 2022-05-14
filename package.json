@@ -1,0 +1,23 @@
+{
+  "name": "cicd-node",
+  "version": "1.0.0",
+  "description": "CICD testing app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elchinzadeh/cicd-node.git"
+  },
+  "keywords": [
+    "cicd",
+    "node"
+  ],
+  "author": "Elchin Zakizadeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elchinzadeh/cicd-node/issues"
+  },
+  "homepage": "https://github.com/elchinzadeh/cicd-node#readme"
+}
